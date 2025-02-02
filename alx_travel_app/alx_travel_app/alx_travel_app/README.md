@@ -1,1 +1,1 @@
-Milestone 2: Database Modeling and Data Seeding in Django
+ Data Seeding in Django
