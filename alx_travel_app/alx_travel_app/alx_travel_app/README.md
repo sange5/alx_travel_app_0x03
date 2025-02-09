@@ -1,1 +1,0 @@
- Data Seeding in Django
